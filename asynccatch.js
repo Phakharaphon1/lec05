@@ -14,3 +14,11 @@ async function msg() {
         console.log(err);
     }
 }
+
+msg();
+msg();
+msg();
+msg();
+msg();
+msg();
+msg();
